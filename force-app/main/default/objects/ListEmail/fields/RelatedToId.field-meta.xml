@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>RelatedToId</fullName>
+    <referenceTo>AppointmentInvitation</referenceTo>
+    <referenceTo>Case</referenceTo>
+    <referenceTo>Contact</referenceTo>
+    <referenceTo>Incident</referenceTo>
+    <referenceTo>Lead</referenceTo>
+    <referenceTo>Opportunity</referenceTo>
+    <referenceTo>Product2</referenceTo>
+    <referenceTo>User</referenceTo>
+    <type>Lookup</type>
+</CustomField>

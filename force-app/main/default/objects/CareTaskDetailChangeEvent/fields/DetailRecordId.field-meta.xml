@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>DetailRecordId</fullName>
+    <referenceTo>Account</referenceTo>
+    <referenceTo>CareRegisteredDevice</referenceTo>
+    <referenceTo>CareRequest</referenceTo>
+    <referenceTo>ClinicalServiceRequest</referenceTo>
+    <referenceTo>Contact</referenceTo>
+    <referenceTo>CoverageBenefit</referenceTo>
+    <referenceTo>HealthcareProvider</referenceTo>
+    <referenceTo>MedicationRequest</referenceTo>
+    <referenceTo>MemberPlan</referenceTo>
+    <referenceTo>User</referenceTo>
+    <type>Lookup</type>
+</CustomField>

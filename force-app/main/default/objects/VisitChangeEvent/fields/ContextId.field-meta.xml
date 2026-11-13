@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ContextId</fullName>
+    <referenceTo>AdvAcctForecastSetPartner</referenceTo>
+    <referenceTo>AdvAcctForecastSetUse</referenceTo>
+    <referenceTo>ApplicationForm</referenceTo>
+    <referenceTo>Asset</referenceTo>
+    <referenceTo>BusinessLicense</referenceTo>
+    <referenceTo>BusinessLicenseApplication</referenceTo>
+    <referenceTo>Case</referenceTo>
+    <referenceTo>Claim</referenceTo>
+    <referenceTo>IndividualApplication</referenceTo>
+    <referenceTo>PublicComplaint</referenceTo>
+    <referenceTo>Referral</referenceTo>
+    <referenceTo>ServiceAppointment</referenceTo>
+    <type>Lookup</type>
+</CustomField>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>PrimaryRecord2Id</fullName>
+    <referenceTo>Account</referenceTo>
+    <referenceTo>CreditMemoInvApplication</referenceTo>
+    <referenceTo>CreditMemoLine</referenceTo>
+    <referenceTo>InsurancePolicyTransaction</referenceTo>
+    <referenceTo>InvoiceLine</referenceTo>
+    <referenceTo>Order</referenceTo>
+    <referenceTo>PaymentLineInvoice</referenceTo>
+    <referenceTo>RefundLinePayment</referenceTo>
+    <referenceTo>WebCart</referenceTo>
+    <type>Lookup</type>
+</CustomField>

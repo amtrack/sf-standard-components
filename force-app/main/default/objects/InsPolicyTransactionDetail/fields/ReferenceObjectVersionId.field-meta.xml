@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ReferenceObjectVersionId</fullName>
+    <referenceTo>InsurancePolicy</referenceTo>
+    <referenceTo>InsurancePolicyAsset</referenceTo>
+    <referenceTo>InsurancePolicyCoverage</referenceTo>
+    <referenceTo>InsurancePolicyParticipant</referenceTo>
+    <referenceTo>InsurancePolicySurcharge</referenceTo>
+    <type>Lookup</type>
+</CustomField>

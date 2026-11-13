@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SourceEntityId</fullName>
+    <referenceTo>CreditMemo</referenceTo>
+    <referenceTo>CreditMemoInvApplication</referenceTo>
+    <referenceTo>CreditMemoLine</referenceTo>
+    <referenceTo>Invoice</referenceTo>
+    <referenceTo>InvoiceLine</referenceTo>
+    <referenceTo>Payment</referenceTo>
+    <referenceTo>PaymentLineInvoice</referenceTo>
+    <referenceTo>Refund</referenceTo>
+    <referenceTo>RefundLinePayment</referenceTo>
+    <type>Lookup</type>
+</CustomField>

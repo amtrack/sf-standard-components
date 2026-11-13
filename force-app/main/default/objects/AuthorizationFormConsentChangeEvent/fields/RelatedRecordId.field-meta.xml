@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>RelatedRecordId</fullName>
+    <referenceTo>Account</referenceTo>
+    <referenceTo>ApplicationForm</referenceTo>
+    <referenceTo>ApplicationFormRelation</referenceTo>
+    <referenceTo>Opportunity</referenceTo>
+    <referenceTo>ResidentialLoanApplication</referenceTo>
+    <referenceTo>Visit</referenceTo>
+    <type>Lookup</type>
+</CustomField>

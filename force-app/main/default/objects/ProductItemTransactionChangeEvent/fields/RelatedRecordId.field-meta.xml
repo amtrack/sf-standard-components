@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>RelatedRecordId</fullName>
+    <referenceTo>FulfillmentOrderLineItem</referenceTo>
+    <referenceTo>ProductConsumed</referenceTo>
+    <referenceTo>ProductTransfer</referenceTo>
+    <referenceTo>ReturnOrderLineItem</referenceTo>
+    <referenceTo>Visit</referenceTo>
+    <type>Lookup</type>
+</CustomField>

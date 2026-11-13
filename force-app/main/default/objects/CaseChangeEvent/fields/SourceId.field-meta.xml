@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>SourceId</fullName>
+    <referenceTo>BusinessMilestone</referenceTo>
+    <referenceTo>EmailMessage</referenceTo>
+    <referenceTo>InsurancePolicy</referenceTo>
+    <referenceTo>LiveChatTranscript</referenceTo>
+    <referenceTo>MessagingSession</referenceTo>
+    <referenceTo>PersonLifeEvent</referenceTo>
+    <referenceTo>PublicComplaint</referenceTo>
+    <referenceTo>ResidentialLoanApplication</referenceTo>
+    <referenceTo>SocialPost</referenceTo>
+    <type>Lookup</type>
+</CustomField>

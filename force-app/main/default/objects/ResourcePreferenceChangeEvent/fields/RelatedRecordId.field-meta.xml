@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>RelatedRecordId</fullName>
+    <referenceTo>Account</referenceTo>
+    <referenceTo>Asset</referenceTo>
+    <referenceTo>Location</referenceTo>
+    <referenceTo>WorkOrder</referenceTo>
+    <referenceTo>WorkOrderLineItem</referenceTo>
+    <type>Lookup</type>
+</CustomField>

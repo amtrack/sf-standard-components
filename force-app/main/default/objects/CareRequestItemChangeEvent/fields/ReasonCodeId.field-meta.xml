@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ReasonCodeId</fullName>
+    <referenceTo>CareDiagnosis</referenceTo>
+    <referenceTo>CodeSet</referenceTo>
+    <referenceTo>CodeSetBundle</referenceTo>
+    <type>Lookup</type>
+</CustomField>

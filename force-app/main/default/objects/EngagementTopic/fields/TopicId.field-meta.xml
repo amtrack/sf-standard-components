@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>TopicId</fullName>
+    <referenceTo>Asset</referenceTo>
+    <referenceTo>Campaign</referenceTo>
+    <referenceTo>Case</referenceTo>
+    <referenceTo>Claim</referenceTo>
+    <referenceTo>Contract</referenceTo>
+    <referenceTo>Lead</referenceTo>
+    <referenceTo>LoyaltyMemberTier</referenceTo>
+    <referenceTo>LoyaltyProgramMember</referenceTo>
+    <referenceTo>Opportunity</referenceTo>
+    <referenceTo>Order</referenceTo>
+    <referenceTo>Product2</referenceTo>
+    <referenceTo>ServiceAppointment</referenceTo>
+    <referenceTo>TransactionJournal</referenceTo>
+    <referenceTo>Voucher</referenceTo>
+    <type>Lookup</type>
+</CustomField>

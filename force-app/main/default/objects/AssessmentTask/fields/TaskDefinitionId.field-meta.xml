@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>TaskDefinitionId</fullName>
+    <referenceTo>OtherComponentTask</referenceTo>
+    <referenceTo>RecordAction</referenceTo>
+    <referenceTo>SignatureTask</referenceTo>
+    <referenceTo>Task</referenceTo>
+    <type>Lookup</type>
+</CustomField>

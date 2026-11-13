@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>RecordId</fullName>
+    <referenceTo>Account</referenceTo>
+    <referenceTo>Campaign</referenceTo>
+    <referenceTo>Case</referenceTo>
+    <referenceTo>Contact</referenceTo>
+    <referenceTo>Contract</referenceTo>
+    <referenceTo>Lead</referenceTo>
+    <referenceTo>Opportunity</referenceTo>
+    <type>Lookup</type>
+</CustomField>

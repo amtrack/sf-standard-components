@@ -1,0 +1,18 @@
+{
+  "name": "sf-standard-components",
+  "version": "0.0.0",
+  "private": true,
+  "description": "The standard objects and fields of Salesforce with their lookups, described in a scratch org.",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "generate": "node generate.ts",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "@salesforce/core": "^9.4.6"
+  }
+}

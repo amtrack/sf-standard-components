@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ParentId</fullName>
+    <referenceTo>Account</referenceTo>
+    <referenceTo>ApplicationForm</referenceTo>
+    <referenceTo>Asset</referenceTo>
+    <referenceTo>AssetAccountParticipant</referenceTo>
+    <referenceTo>AssetContactParticipant</referenceTo>
+    <referenceTo>BenefitDisbursement</referenceTo>
+    <referenceTo>BusinessMilestone</referenceTo>
+    <referenceTo>Campaign</referenceTo>
+    <referenceTo>Case</referenceTo>
+    <referenceTo>Claim</referenceTo>
+    <referenceTo>Contact</referenceTo>
+    <referenceTo>Contract</referenceTo>
+    <referenceTo>IndividualApplication</referenceTo>
+    <referenceTo>InsurancePolicy</referenceTo>
+    <referenceTo>InsurancePolicyCoverage</referenceTo>
+    <referenceTo>Lead</referenceTo>
+    <referenceTo>LoanApplicant</referenceTo>
+    <referenceTo>LoanApplicantEmployment</referenceTo>
+    <referenceTo>LoanApplicantIncome</referenceTo>
+    <referenceTo>LoanApplicationAsset</referenceTo>
+    <referenceTo>LoanApplicationFinancial</referenceTo>
+    <referenceTo>LoanApplicationLiability</referenceTo>
+    <referenceTo>LoanApplicationProperty</referenceTo>
+    <referenceTo>LoyaltyProgramMember</referenceTo>
+    <referenceTo>Opportunity</referenceTo>
+    <referenceTo>PersonLifeEvent</referenceTo>
+    <referenceTo>ResidentialLoanApplication</referenceTo>
+    <referenceTo>TransactionJournal</referenceTo>
+    <referenceTo>User</referenceTo>
+    <type>Lookup</type>
+</CustomField>

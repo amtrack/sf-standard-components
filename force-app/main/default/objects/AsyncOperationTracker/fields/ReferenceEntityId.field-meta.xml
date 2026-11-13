@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ReferenceEntityId</fullName>
+    <referenceTo>CreditMemo</referenceTo>
+    <referenceTo>InsurancePolicyTransaction</referenceTo>
+    <referenceTo>Order</referenceTo>
+    <referenceTo>Product2</referenceTo>
+    <referenceTo>WebStore</referenceTo>
+    <type>Lookup</type>
+</CustomField>
